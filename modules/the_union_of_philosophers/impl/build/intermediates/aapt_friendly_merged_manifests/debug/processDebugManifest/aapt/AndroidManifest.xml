@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="theguide.modules.the_union_of_philosophers.impl" >
+
+    <uses-sdk android:minSdkVersion="1" />
+
+</manifest>

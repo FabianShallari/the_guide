@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fshallari/Development/babbel/TheGuide/modules/the_union_of_philosophers/impl/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12639953471374241474.xml:2:13-83
+INJECTED from /Users/fshallari/Development/babbel/TheGuide/modules/the_union_of_philosophers/impl/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12639953471374241474.xml:2:13-83
+	package
+		INJECTED from /Users/fshallari/Development/babbel/TheGuide/modules/the_union_of_philosophers/impl/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12639953471374241474.xml
+	xmlns:android
+		ADDED from /Users/fshallari/Development/babbel/TheGuide/modules/the_union_of_philosophers/impl/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12639953471374241474.xml:2:23-81
+uses-sdk
+INJECTED from /Users/fshallari/Development/babbel/TheGuide/modules/the_union_of_philosophers/impl/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12639953471374241474.xml reason: use-sdk injection requested
+INJECTED from /Users/fshallari/Development/babbel/TheGuide/modules/the_union_of_philosophers/impl/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12639953471374241474.xml
+INJECTED from /Users/fshallari/Development/babbel/TheGuide/modules/the_union_of_philosophers/impl/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12639953471374241474.xml
+	android:targetSdkVersion
+		INJECTED from /Users/fshallari/Development/babbel/TheGuide/modules/the_union_of_philosophers/impl/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12639953471374241474.xml
+	android:minSdkVersion
+		INJECTED from /Users/fshallari/Development/babbel/TheGuide/modules/the_union_of_philosophers/impl/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12639953471374241474.xml

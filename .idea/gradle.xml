@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/modules" />
+            <option value="$PROJECT_DIR$/modules/autobind" />
+            <option value="$PROJECT_DIR$/modules/autobind/annotations" />
+            <option value="$PROJECT_DIR$/modules/autobind/processor" />
+            <option value="$PROJECT_DIR$/modules/the_answer" />
+            <option value="$PROJECT_DIR$/modules/the_answer/api" />
+            <option value="$PROJECT_DIR$/modules/the_answer/impl" />
+            <option value="$PROJECT_DIR$/modules/the_union_of_philosophers" />
+            <option value="$PROJECT_DIR$/modules/the_union_of_philosophers/api" />
+            <option value="$PROJECT_DIR$/modules/the_union_of_philosophers/impl" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
